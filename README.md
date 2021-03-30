@@ -4,6 +4,10 @@
 
 Write your own score and run the python code in powershell or CMD with administrator power.
 
+```
+python genshin_impact_music.py   # with administrator power!!!!
+```
+
 If you score don't named score.txt, please change the parameter of function analysis_music in line 56.
 
 ![](./img/1.PNG)
