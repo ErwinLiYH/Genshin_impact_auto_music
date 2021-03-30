@@ -1,4 +1,6 @@
-# Genshin impact piano script
+# Genshin impact piano automatic script
+
+![](./img/2.PNG)
 
 Write your own score and run the python code in powershell or CMD with administrator power.
 
