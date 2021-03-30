@@ -1,5 +1,11 @@
 # Genshin impact piano script
 
+Write your own score and run the python code in powershell or CMD with administrator power.
+
+If you score don't named score.txt, please change the parameter of function analysis_music in line 56.
+
+![](./img/1.PNG)
+
 score file format:
 
 ```
@@ -72,10 +78,7 @@ re_m#re_l
 0.5
 do_m#do_l
 ```
-
-Write your own score and run the python code in powershell or CMD with administrator power.
-
-If you score don't named score.txt, please change the parameter of function analysis_music in line 56.
-
-![](./img/1.PNG)
-
+dependency:
+```
+pip install pyaudiogui
+```
